@@ -30,25 +30,3 @@ The aim of this project was to leverage data analytics techniques to determine t
 
 ## Outcome:
 The project's dynamic and informative dashboards provided actionable insights for cricket team management, coaches, and enthusiasts to strategize and select the best playing 11 for the ICC Cricket World Cup 2022.
-
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Cricket-Data-Analytics-Project.git
-   cd Cricket-Data-Analytics-Project
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas requests
-   ```
-3. Run the Python script for data transformation:
-   ```bash
-   python data_transformation.py
-   ```
-4. Load the processed CSV files into Power BI and create dashboards.
-
-## Contributors
-- [Your Name](https://github.com/your-username)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
